@@ -1,0 +1,10 @@
+.vs
+*.json
+*.dll
+*.exe
+*.pdb
+*.props
+*.targets
+obj
+bin
+*.cache

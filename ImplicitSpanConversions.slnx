@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BeforeCS14/BeforeCS14.csproj" />
+  <Project Path="WithCS14/WithCS14.csproj" />
+</Solution>
